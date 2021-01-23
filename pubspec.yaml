@@ -1,7 +1,7 @@
 name: dart_dsa
 description: This package contains various implementation of DataStructures and Algorithms  in dart.
 version: 0.0.1
-homepage:
+homepage: https://github.com/akku-akki/dart_dsa
 
 environment:
   sdk: ">=2.7.0 <3.0.0"

@@ -9,7 +9,7 @@ Other DSA will be added with the next upgrade of package
 ### Currently this package contains following DSA class in dart
 
 ### DS
- LinkedList 
+ LinkedList\n 
  StackCapacity
  StackLinkedList
  HashTable
